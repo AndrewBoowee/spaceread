@@ -52,3 +52,8 @@ Table
 
 ~strikethrough example~
 
+Horizontal Rule
+
+Hyphens   ---
+Asterisk  ***
+Underscores ___
