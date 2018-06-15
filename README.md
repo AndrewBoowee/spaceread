@@ -44,6 +44,24 @@ Table
 
 | Column3  | west  | east  |
 
+Code Block
+~~~~
+#include<stdio.h>
+int main
+{
+  printf("Code block\n");
+  return 0;
+}
+~~~~
+
+```
+#include<stdio.h>
+int main
+{
+  printf("Code block\n");
+  return 0;
+}
+```
 
 
 **Bolded text example**
