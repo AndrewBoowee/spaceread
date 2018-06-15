@@ -33,6 +33,7 @@ Number List
 
 
 Table 
+
 | Tables   | are     | fun   |
 
 |----------|:-----:|------:|
@@ -46,4 +47,8 @@ Table
 
 
 **Bolded text example**
+
+*Italicized text example*
+
+~strikethrough example~
 
